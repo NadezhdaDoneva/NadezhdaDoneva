@@ -11,7 +11,7 @@
 
 ![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=NadezhdaDoneva&show_icons=true)
 
-
+<p> <a href=https://www.linkedin.com/in/nadezhda-doneva-100120249/><img height="50em" src="https://www.mhe-sme.org/wp-content/uploads/2017/12/linkedin-icon.png" /><a/>
 <!---
 NadezhdaDoneva/NadezhdaDoneva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
