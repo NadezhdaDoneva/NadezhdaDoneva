@@ -12,6 +12,12 @@
 ![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=NadezhdaDoneva&show_icons=true)
 
 
+|**Courses**|**Certificates**|
+|:---|:---|
+|<a href="https://softuni.bg/trainings/3622/programming-basics-with-javascript-january-2022" > Programming Basics with C# </a>| <a href="https://softuni.bg/certificates/details/124510/a874bf50"> 👉📜✅</a> |
+|<a href="https://softuni.bg/trainings/3732/programming-fundamentals-with-javascript-may-2022"> C# Fundamentals </a>| <a href="https://softuni.bg/certificates/details/139117/fef71e80"> 👉📜✅</a> |
+
+
 
 Contact me:
 ### <p> <a href=https://www.linkedin.com/in/nadezhda-doneva-100120249/><img height="50em" src="https://www.mhe-sme.org/wp-content/uploads/2017/12/linkedin-icon.png" /><a/>
