@@ -7,10 +7,6 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NadezhdaDoneva&theme=blue-green)...
-
-![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=NadezhdaDoneva&show_icons=true)
-
 
 |**Courses**|**Certificates**|
 |:---|:---|
@@ -18,7 +14,12 @@
 |<a href="https://softuni.bg/trainings/3732/programming-fundamentals-with-javascript-may-2022"> JS Fundamentals </a>| <a href="https://softuni.bg/certificates/details/139117/fef71e80"> 👉📜✅</a> |
 |<a href="https://softuni.bg/trainings/3846/js-advanced-september-2022"> JS Advanced </a>| <a href="https://softuni.bg/certificates/details/145363/7ae375fd"> 👉📜✅</a> |
 |<a href="https://softuni.bg/trainings/3847/js-applications-october-2022"> JS Applications </a>| <a href="https://softuni.bg/certificates/details/149767/f0cb6234"> 👉📜✅</a> |
+|<a href="https://softuni.bg/trainings/4114/html-and-css-may-2023"> HTML & CSS </a>| <a href=https://softuni.bg/certificates/details/174782/815c1100> 👉📜✅</a> |
 
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NadezhdaDoneva&theme=blue-green)...
+
+![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=NadezhdaDoneva&show_icons=true)
 
 
 Contact me:
