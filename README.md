@@ -14,7 +14,8 @@
 |<a href="https://softuni.bg/trainings/3732/programming-fundamentals-with-javascript-may-2022"> JS Fundamentals </a>| <a href="https://softuni.bg/certificates/details/139117/fef71e80"> 👉📜✅</a> |
 |<a href="https://softuni.bg/trainings/3846/js-advanced-september-2022"> JS Advanced </a>| <a href="https://softuni.bg/certificates/details/145363/7ae375fd"> 👉📜✅</a> |
 |<a href="https://softuni.bg/trainings/3847/js-applications-october-2022"> JS Applications </a>| <a href="https://softuni.bg/certificates/details/149767/f0cb6234"> 👉📜✅</a> |
-|<a href="https://softuni.bg/trainings/4114/html-and-css-may-2023"> HTML & CSS </a>| <a href=https://softuni.bg/certificates/details/174782/815c1100> 👉📜✅</a> |
+|<a href="https://softuni.bg/trainings/4114/html-and-css-may-2023"> HTML & CSS </a>| <a href="https://softuni.bg/certificates/details/174782/815c1100"> 👉📜✅</a> |
+|<a href="https://softuni.bg/trainings/4111/js-back-end-may-2023"> JS Back-End </a>| <a href="https://softuni.bg/certificates/details/182070/1f413760"> 👉📜✅</a> |
 
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NadezhdaDoneva&theme=blue-green)...
