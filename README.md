@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Nadezhda Doneva
-- 👀 **JavaScript** and **C#** learner
-- SoftUni
+- 👋 Hi, I’m **Nadezhda Doneva**
+- 👀 **FMI**
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Handlebars](https://img.shields.io/badge/Handlebars%20js-f0772b?style=for-the-badge&logo=handlebarsdotjs&logoColor=black)
