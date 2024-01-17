@@ -22,8 +22,6 @@
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NadezhdaDoneva&theme=blue-green)...
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NadezhdaDoneva)](https://github.com/anuraghazra/github-readme-stats)
-
 ![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=NadezhdaDoneva&show_icons=true)
 
 
